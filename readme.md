@@ -1,12 +1,13 @@
-# breakdance
+<div align="center">
+<h1> breakdance </h1>
 
-A meme program which play Breakdance in loop.
-
-<p align="center">
+  A meme program which play Breakdance in loop.
   
+  ![Static Badge](https://img.shields.io/badge/Reference-Code_Lyoko_EP_25-green?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqgxPbqDskyw%26t%3D782s)
+
   [<img src="https://img.youtube.com/vi/kT3Wm8Nhapw/hqdefault.jpg" width="300" height="300"/>](https://www.youtube.com/embed/kT3Wm8Nhapw)
 
-</p>
+</div>
 
 ---
 
