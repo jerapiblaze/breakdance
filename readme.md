@@ -2,9 +2,11 @@
 
 A meme program which play Breakdance in loop.
 
-<center>
-<iframe width="887" height="887" src="https://www.youtube.com/embed/kT3Wm8Nhapw" title="A wrong CD inserted" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
+<p align="center">
+  
+  [<img src="https://img.youtube.com/vi/kT3Wm8Nhapw/hqdefault.jpg" width="300" height="300"/>](https://www.youtube.com/embed/kT3Wm8Nhapw)
+
+</p>
 
 ---
 
